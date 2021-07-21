@@ -1,7 +1,7 @@
 # Siddhee Gawas
 # basic Banking System
 Sparks Foundation Internship Task: Basic Banking System  
-this websit is useful to transfer money between multiple users.  
+this website is useful to transfer money between multiple users.  
 
 Stack used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
